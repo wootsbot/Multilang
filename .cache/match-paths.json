@@ -1,0 +1,30 @@
+[
+    {
+        "path": "/es-es/primer-post",
+        "matchPath": "/es-es/primer-post"
+    },
+    {
+        "path": "/:lang?/:uid",
+        "matchPath": "/:lang?/:uid"
+    },
+    {
+        "path": "/dev-404-page/",
+        "matchPath": "/dev-404-page/"
+    },
+    {
+        "path": "/es-es/",
+        "matchPath": "/es-es/"
+    },
+    {
+        "path": "/first-post",
+        "matchPath": "/first-post"
+    },
+    {
+        "path": "/home",
+        "matchPath": "/:lang?/"
+    },
+    {
+        "path": "/preview",
+        "matchPath": "/preview"
+    }
+]
